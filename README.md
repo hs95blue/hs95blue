@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HyunSik Lee</h1>
 <h3 align="center">A passionate backend developer from Korea</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hs95blue&label=Profile%20views&color=0e75b6&style=flat" alt="hs95blue" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=hs95blue&label=Profile%20views&color=0e75b6&style=flat" alt="hs95blue" /> </p>
 
 
 <p align="center"> 🌱 I’m currently learning <strong>Spring</strong> </p>

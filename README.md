@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hs95blue&label=Profile%20views&color=0e75b6&style=flat" alt="hs95blue" /> </p>
 
 
-- 🌱 I’m currently learning **Spring**
+<p align="center">- 🌱 I’m currently learning **Spring**</p>
 
-- 📫 How to reach me **hs95blue@gmail.com**
+<p align="center">- 📫 How to reach me **hs95blue@gmail.com**</p>
 
 
 <h3 align="center">Languages and Tools:</h3>

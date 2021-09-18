@@ -23,10 +23,10 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     2 hrs 40 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 2 hrs 40 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -42,7 +42,7 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 17/09/2021
+ Last Updated on 18/09/2021
 <!--END_SECTION:waka-->
 
 

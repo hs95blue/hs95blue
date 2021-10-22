@@ -15,7 +15,7 @@
  
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-166617%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-717996%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -30,19 +30,19 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Java                     3 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
-JavaScript               3 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
-SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+JavaScript               4 repos             ███████████░░░░░░░░░░░░░░   44.44% 
+Java                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
 
 
 
- Last Updated on 21/10/2021
+ Last Updated on 22/10/2021
 <!--END_SECTION:waka-->
 
 

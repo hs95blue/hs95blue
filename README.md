@@ -23,10 +23,11 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     32 mins             ████████████████████████░   98.19% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 33 mins             █████████████████████████   100.0%
 
 ```
 
@@ -43,7 +44,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2022 18:13:37 UTC
+ Last Updated on 06/02/2022 18:15:53 UTC
 <!--END_SECTION:waka-->
 
 

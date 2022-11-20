@@ -15,7 +15,7 @@
  
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
@@ -25,10 +25,14 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 29 mins        ████████████████████░░░░░   81.59% 
+XML                      17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99% 
+Groovy                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 49 mins        █████████████████████████   100.0%
 
 ```
 
@@ -45,7 +49,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2022 18:17:29 UTC
+ Last Updated on 20/11/2022 18:17:08 UTC
 <!--END_SECTION:waka-->
 
 

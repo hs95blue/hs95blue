@@ -17,35 +17,34 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%2018%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Seoul
+🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
 No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
-
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in JavaScript** 
 
 ```text
-HTML                     5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
 JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-CSS                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22 % 
+HTML                     5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+CSS                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
 Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-
 ```
 
 
 
- Last Updated on 21/02/2023 18:14:15 UTC
+
+ Last Updated on 22/02/2023 18:13:44 UTC
 <!--END_SECTION:waka-->
 
 

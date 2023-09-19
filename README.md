@@ -15,7 +15,7 @@
  
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.4%20million%20lines%20of%20code-blue)
 
@@ -25,10 +25,14 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Groovy                   7 mins              ████████████████████░░░░░   81.34 % 
+Java                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -44,7 +48,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2023 18:13:29 UTC
+ Last Updated on 19/09/2023 18:13:24 UTC
 <!--END_SECTION:waka-->
 
 

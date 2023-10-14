@@ -25,10 +25,10 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Groovy                   1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -44,7 +44,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2023 18:13:54 UTC
+ Last Updated on 14/10/2023 18:12:18 UTC
 <!--END_SECTION:waka-->
 
 

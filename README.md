@@ -15,7 +15,7 @@
  
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.0%20million%20lines%20of%20code-blue)
 
@@ -25,11 +25,11 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     30 mins             █████████████████████████   99.55 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Java                     1 hr 9 mins         █████████████████████████   99.80 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-IntelliJ                 30 mins             █████████████████████████   100.00 % 
+IntelliJ                 1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -45,7 +45,7 @@ SCSS                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2024 18:13:03 UTC
+ Last Updated on 06/05/2024 18:16:03 UTC
 <!--END_SECTION:waka-->
 
 

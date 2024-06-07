@@ -15,7 +15,7 @@
  
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.8%20million%20lines%20of%20code-blue)
 
@@ -25,10 +25,11 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     23 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             19 mins             █████████████████████░░░░   83.61 % 
+IntelliJ                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -44,7 +45,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2024 18:15:04 UTC
+ Last Updated on 07/06/2024 18:16:05 UTC
 <!--END_SECTION:waka-->
 
 

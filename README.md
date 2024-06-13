@@ -25,11 +25,10 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Intellijidea             19 mins             █████████████████████░░░░   83.61 % 
-IntelliJ                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -45,7 +44,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2024 18:16:01 UTC
+ Last Updated on 13/06/2024 18:16:06 UTC
 <!--END_SECTION:waka-->
 
 
